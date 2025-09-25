@@ -1,1 +1,6 @@
+Data/
+d3rlpy_logs/
+
+/*.csv
+utils/hypertuning.py
 
